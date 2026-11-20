@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Course matrix plugins",
+    "zh": "网课整理器插件源"
+  },
+  "description": {
+    "en": "Plugins for turning subjects and syllabi into audited course tables.",
+    "zh": "把学科和考纲变成可核验的网课对照表。"
+  },
+  "metadata": {
+    "categories": {
+      "study": {
+        "title": {
+          "en": "Study",
+          "zh": "学习"
+        }
+      }
+    },
+    "labels": {},
+    "sortKeys": {}
+  },
+  "plugins": [
+    {
+      "name": "dsh-course-matrix",
+      "title": {
+        "en": "Course matrix",
+        "zh": "网课整理器"
+      },
+      "description": {
+        "en": "Search public bilibili courses by subject or syllabus, audit each candidate's page list for teasers and paid funnels, and export a syllabus-to-episode table.",
+        "zh": "按学科或考纲在 B 站检索公开网课，逐门核验分P是否试听切片或付费引流，导出考纲逐条对应的分P表。"
+      },
+      "icon": "icon.svg",
+      "author": "your-name",
+      "homepage": "https://github.com/link0612Zzz/dsh-course-matrix",
+      "repository": {
+        "url": "https://github.com/link0612Zzz/dsh-course-matrix"
+      },
+      "metadata": {
+        "category": "study",
+        "keywords": [
+          "courses",
+          "bilibili",
+          "syllabus",
+          "study"
+        ],
+        "labels": [],
+        "sortKeys": {}
+      },
+      "versions": [
+        {
+          "version": "1.0.1",
+          "publishTimestamp": 1795175490,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/link0612Zzz/dsh-course-matrix",
+            "commit": "REPLACE_WITH_40_HEX_COMMIT_SHA"
+          },
+          "engines": {}
+        }
+      ]
+    }
+  ]
+}

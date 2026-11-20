@@ -1,0 +1,5 @@
+- insert:
+    - id: course-matrix
+      name: 'dsh-course-matrix'
+      config:
+        defaultSearchLimit: 15

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "网课整理器",
+    "description": "给一个学科或课程名，自动在 B 站搜索公开网课，验证候选课程的完整分P与时长，再整理成带样式的表格。内置三个工具：bili_search（搜索）、bili_course（读分P）、course_matrix_xlsx（生成表格）。只读公开数据，不登录、不下载视频、不购买课程。",
+    "detail": "docs/DETAIL.md"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Course matrix",
+    "description": "Search public bilibili videos for a subject, verify each candidate's full page list, and write the result as a styled spreadsheet. Ships three tools: bili_search, bili_course and course_matrix_xlsx. Read-only: it never logs in, downloads media, or buys anything.",
+    "detail": "docs/DETAIL.md"
+  }
+}
