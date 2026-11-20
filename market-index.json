@@ -55,7 +55,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/link0612Zzz/dsh-course-matrix",
-            "commit": "REPLACE_WITH_40_HEX_COMMIT_SHA"
+            "commit": "          "commit": "b6ac8fe28182a4a03f7d92a881d6ab153bd0ba40""
           },
           "engines": {}
         }
